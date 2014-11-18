@@ -1,7 +1,7 @@
 sumu-music
 ==========
 
-Android app for for sharing and discovering music.
+Android app for sharing and discovering music.
 
 Features
 ---------
